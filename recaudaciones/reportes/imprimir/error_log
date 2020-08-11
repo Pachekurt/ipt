@@ -1,0 +1,10 @@
+[20-Dec-2017 17:38:21 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 18278
+[21-Dec-2017 15:52:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/duartemanuel/public_html/nacional/recaudaciones/reportes/imprimir/ejecutivo.php on line 355
+[13-Jan-2018 09:43:30 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 18278
+[13-Jan-2018 09:45:46 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 18278
+[13-Jan-2018 09:46:16 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 18278
+[13-Jan-2018 09:48:14 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 18278
+[13-Jan-2018 09:49:21 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 17522
+[13-Jan-2018 09:50:32 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 18278
+[13-Jan-2018 09:51:29 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 20612
+[09-Apr-2019 18:52:53 America/La_Paz] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/duartemanuel/sistema.inglesgb.com/es/recursos/pdf/tcpdf/tcpdf.php on line 18278

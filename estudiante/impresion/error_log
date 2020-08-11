@@ -1,0 +1,12 @@
+[08-Apr-2019 11:22:00 America/La_Paz] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home2/duartemanuel/sistema.inglesgb.com/es/class/bd.php:90)' in /home2/duartemanuel/sistema.inglesgb.com/es/recursos/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/duartemanuel/sistema.inglesgb.com/es/recursos/pdf/fpdf/fpdf.php(1054): FPDF->Error('Some data has a...')
+#1 /home2/duartemanuel/sistema.inglesgb.com/es/recursos/pdf/fpdf/fpdf.php(1001): FPDF->_checkoutput()
+#2 /home2/duartemanuel/sistema.inglesgb.com/es/estudiante/impresion/asistencia.php(239): FPDF->Output()
+#3 {main}
+  thrown in /home2/duartemanuel/sistema.inglesgb.com/es/recursos/pdf/fpdf/fpdf.php on line 271
+[29-Apr-2019 19:10:57 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/duartemanuel/sistema.inglesgb.com/es/class/bd.php:14
+Stack trace:
+#0 /home2/duartemanuel/sistema.inglesgb.com/es/estudiante/impresion/asistencia.php(9): bd->__construct()
+#1 {main}
+  thrown in /home2/duartemanuel/sistema.inglesgb.com/es/class/bd.php on line 14

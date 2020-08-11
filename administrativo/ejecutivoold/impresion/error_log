@@ -1,0 +1,45 @@
+[31-Aug-2017 15:24:50 America/Chicago] PHP Warning:  require(../../../../../recursos/pdf/fpdf/fpdf.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 15:24:50 America/Chicago] PHP Warning:  require(../../../../../recursos/pdf/fpdf/fpdf.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 15:24:50 America/Chicago] PHP Fatal error:  require(): Failed opening required '../../../../../recursos/pdf/fpdf/fpdf.php' (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 15:25:13 America/Chicago] PHP Warning:  require(../../../../../recursos/pdf/fpdf/fpdf.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 15:25:13 America/Chicago] PHP Warning:  require(../../../../../recursos/pdf/fpdf/fpdf.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 15:25:13 America/Chicago] PHP Fatal error:  require(): Failed opening required '../../../../../recursos/pdf/fpdf/fpdf.php' (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 16:25:24 America/La_Paz] PHP Warning:  fopen(../../../../../imagenes/logo.png): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php on line 1261
+[31-Aug-2017 16:25:24 America/La_Paz] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Can't open image file: ../../../../../imagenes/logo.png' in /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php(1263): FPDF->Error('Can't open imag...')
+#1 /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php(887): FPDF->_parsepng('../../../../../...')
+#2 /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php(25): FPDF->Image('../../../../../...', 10, 8, 40)
+#3 /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php(334): PDF->Header()
+#4 /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php(75): FPDF->AddPage()
+#5 {main}
+  thrown in /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php on line 271
+[31-Aug-2017 15:25:37 America/Chicago] PHP Warning:  require(../../../../recursos/pdf/fpdf/fpdf.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 15:25:37 America/Chicago] PHP Warning:  require(../../../../recursos/pdf/fpdf/fpdf.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 15:25:37 America/Chicago] PHP Fatal error:  require(): Failed opening required '../../../../recursos/pdf/fpdf/fpdf.php' (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 4
+[31-Aug-2017 16:25:58 America/La_Paz] PHP Warning:  fopen(../../../../../imagenes/logo.png): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php on line 1261
+[31-Aug-2017 16:25:58 America/La_Paz] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Can't open image file: ../../../../../imagenes/logo.png' in /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php(1263): FPDF->Error('Can't open imag...')
+#1 /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php(887): FPDF->_parsepng('../../../../../...')
+#2 /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php(25): FPDF->Image('../../../../../...', 10, 8, 40)
+#3 /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php(334): PDF->Header()
+#4 /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php(75): FPDF->AddPage()
+#5 {main}
+  thrown in /home2/duartemanuel/public_html/administrativo/recursos/pdf/fpdf/fpdf.php on line 271
+[31-Aug-2017 16:40:40 America/La_Paz] PHP Warning:  include_once(../../../class/venta.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 7
+[31-Aug-2017 16:40:40 America/La_Paz] PHP Warning:  include_once(): Failed opening '../../../class/venta.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 7
+[31-Aug-2017 16:40:40 America/La_Paz] PHP Fatal error:  Class 'venta' not found in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 8
+[31-Aug-2017 16:40:57 America/La_Paz] PHP Warning:  include_once(../../../class/producto.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 7
+[31-Aug-2017 16:40:57 America/La_Paz] PHP Warning:  include_once(): Failed opening '../../../class/producto.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 7
+[31-Aug-2017 16:40:57 America/La_Paz] PHP Fatal error:  Class 'producto' not found in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 8
+[31-Aug-2017 16:41:08 America/La_Paz] PHP Warning:  require_once(../../../recursos/tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 10
+[31-Aug-2017 16:41:08 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required '../../../recursos/tcpdf/tcpdf.php' (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 10
+[31-Aug-2017 16:41:20 America/La_Paz] PHP Fatal error:  Call to a member function mostrar() on a non-object in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 23
+[31-Aug-2017 16:41:35 America/La_Paz] PHP Fatal error:  Call to a member function mostrar() on a non-object in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 25
+[31-Aug-2017 16:41:52 America/La_Paz] PHP Fatal error:  Call to a member function mostrarTodo() on a non-object in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 216
+[31-Aug-2017 16:42:23 America/La_Paz] PHP Warning:  imagepng(qr/.png): failed to open stream: No existe el fichero o el directorio in /home2/duartemanuel/public_html/administrativo/recursos/qr/qrimage.php on line 43
+[31-Aug-2017 17:45:17 America/La_Paz] PHP Warning:  getimagesize(../../../administrativo/ejecutivo/foto/server/php//31201417.jpg): failed to open stream: No existe el fichero o el directorio in /home2/duartemanuel/public_html/administrativo/recursos/pdf/tcpdf/include/tcpdf_images.php on line 171
+[31-Aug-2017 17:45:17 America/La_Paz] PHP Warning:  imagecreatefromjpeg(../../../administrativo/ejecutivo/foto/server/php//31201417.jpg): failed to open stream: No existe el fichero o el directorio in /home2/duartemanuel/public_html/administrativo/recursos/pdf/tcpdf/tcpdf.php on line 7033
+[31-Aug-2017 17:45:17 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/duartemanuel/public_html/administrativo/recursos/pdf/tcpdf/include/tcpdf_images.php:171) in /home2/duartemanuel/public_html/administrativo/recursos/pdf/tcpdf/tcpdf.php on line 7624
+[31-Aug-2017 17:44:19 America/Chicago] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING) in /home2/duartemanuel/public_html/administrativo/administrativo/ejecutivo/impresion/index.php on line 281

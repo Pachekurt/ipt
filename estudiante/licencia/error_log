@@ -1,0 +1,6 @@
+[10-Sep-2018 11:26:08 America/La_Paz] PHP Warning:  include_once(../../class/vlicencia.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/nacional/estudiante/licencia/licencia.php on line 15
+[10-Sep-2018 11:26:08 America/La_Paz] PHP Warning:  include_once(): Failed opening '../../class/vlicencia.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/duartemanuel/public_html/nacional/estudiante/licencia/licencia.php on line 15
+[10-Sep-2018 11:26:08 America/La_Paz] PHP Fatal error:  Class 'vlicencia' not found in /home2/duartemanuel/public_html/nacional/estudiante/licencia/licencia.php on line 16
+[10-Sep-2018 11:04:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home2/duartemanuel/public_html/nacional/estudiante/licencia/guardarObs.php on line 39
+[10-Sep-2018 11:05:02 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home2/duartemanuel/public_html/nacional/estudiante/licencia/guardarObs.php on line 39
+[10-Sep-2018 11:05:04 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home2/duartemanuel/public_html/nacional/estudiante/licencia/guardarObs.php on line 39

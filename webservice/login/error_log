@@ -1,0 +1,4 @@
+[06-Nov-2017 10:59:32 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home2/duartemanuel/public_html/nacional/webservice/login/index.php on line 15
+[06-Nov-2017 11:01:59 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home2/duartemanuel/public_html/nacional/webservice/login/index.php on line 15
+[06-Nov-2017 11:05:13 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home2/duartemanuel/public_html/nacional/webservice/login/index.php on line 15
+[06-Nov-2017 11:36:01 America/La_Paz] PHP Catchable fatal error:  Object of class usuario could not be converted to string in /home2/duartemanuel/public_html/nacional/webservice/login/index.php on line 15

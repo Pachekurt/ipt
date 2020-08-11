@@ -1,0 +1,8 @@
+SELECT e.idestudiante, e.nombre,e.paterno,e.materno , e.idmodulo, e.idsede ,
+ef.promedio, ef.aprobo, ef.asignatura, pf.detalle,pf.a, pf.b,pf.c, pf.d, pf.respuesta , edf.respuestaest,edf.correcto ,edf.tipoexamen
+FROM `admestudiante` e
+inner join 
+examenfinal ef on ef.idestudiante= e.idestudiante
+inner join examendetallefinal edf on edf.idexamenfinal =  ef.idexamenfinal
+inner join preguntafinal pf on pf.idpreguntafinal = edf.idpreguntafinal
+WHERE ef.idexamenfinal=1948

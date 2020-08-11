@@ -1,0 +1,5 @@
+[16-Mar-2018 10:54:40 America/Chicago] PHP Warning:  include_once(../../../class/invitem.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/nacional/inventarios/item/nuevo/guardar.php on line 3
+[16-Mar-2018 10:54:40 America/Chicago] PHP Warning:  include_once(): Failed opening '../../../class/invitem.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/duartemanuel/public_html/nacional/inventarios/item/nuevo/guardar.php on line 3
+[16-Mar-2018 10:54:40 America/Chicago] PHP Fatal error:  Class 'invitem' not found in /home2/duartemanuel/public_html/nacional/inventarios/item/nuevo/guardar.php on line 4
+[16-Mar-2018 11:56:20 America/La_Paz] PHP Fatal error:  Call to a member function actualizar() on null in /home2/duartemanuel/public_html/nacional/inventarios/item/nuevo/guardar.php on line 18
+[16-Mar-2018 11:57:37 America/La_Paz] PHP Fatal error:  Call to a member function insertar() on null in /home2/duartemanuel/public_html/nacional/inventarios/item/nuevo/guardar.php on line 18

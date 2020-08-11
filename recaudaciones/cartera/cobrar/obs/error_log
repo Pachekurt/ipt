@@ -1,0 +1,1 @@
+[28-Dec-2017 09:39:18 America/La_Paz] PHP Fatal error:  Call to a member function mostrarTodo() on a non-object in /home2/duartemanuel/public_html/nacional/recaudaciones/cartera/cobrar/obs/index.php on line 86

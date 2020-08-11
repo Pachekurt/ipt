@@ -1,0 +1,11 @@
+[08-Feb-2018 15:26:38 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on null in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 12
+[08-Feb-2018 15:45:18 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on null in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 12
+[08-Feb-2018 14:02:38 America/Chicago] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 255
+[08-Feb-2018 14:45:40 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 250
+[09-Feb-2018 15:32:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$html' (T_VARIABLE) in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 258
+[26-Mar-2018 10:11:41 America/La_Paz] PHP Fatal error:  Call to a member function mostrarTodo() on null in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 293
+[05-Apr-2018 10:32:28 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on null in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 248
+[06-Apr-2018 17:23:34 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/recursos/pdf/tcpdf/tcpdf.php on line 18278
+[16-Apr-2018 17:29:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 269
+[16-Apr-2018 17:45:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 362
+[16-Apr-2018 18:03:45 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home2/duartemanuel/public_html/nacional/administrativo/contrato/reporte/pvo/index.php on line 252

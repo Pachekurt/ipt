@@ -1,0 +1,26 @@
+<?php
+	$ruta="../../../";
+	include_once($ruta."class/admorganizacion.php");
+	$admorganizacion=new admorganizacion;
+	extract($_POST);
+
+    $valores2=array(
+		"idadmejecutivo"=>"'$idejecutivo'"
+	);	
+	$admorganizacion->actualizar($valores2,$idOrgz);
+    ?>
+		<script  type="text/javascript">
+			swal({
+				title: "Exito !!!",
+				text: "Contratos Asignados Correctamente",
+				type: "success",
+				showCancelButton: false,
+				confirmButtonColor: "#28e29e",
+				confirmButtonText: "OK",
+				closeOnConfirm: false
+			}, function () {  
+				location.reload();
+			});
+		</script>
+	<?php
+?>

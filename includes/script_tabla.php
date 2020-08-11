@@ -1,0 +1,2 @@
+<script type="text/javascript" src="<?php echo $ruta ?>recursos/private/dataTables/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="<?php echo $ruta ?>recursos/private/dataTables/dataTables.responsive.min.js"></script>

@@ -1,0 +1,4 @@
+[16-Oct-2017 14:58:41 America/La_Paz] PHP Warning:  include_once(../../../class/vpagotit.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/nacional/factura/impresion/computarizada/index.php on line 28
+[16-Oct-2017 14:58:41 America/La_Paz] PHP Warning:  include_once(): Failed opening '../../../class/vpagotit.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/nacional/factura/impresion/computarizada/index.php on line 28
+[16-Oct-2017 14:58:41 America/La_Paz] PHP Fatal error:  Class 'vpagotit' not found in /home2/duartemanuel/public_html/nacional/factura/impresion/computarizada/index.php on line 29
+[20-Dec-2019 09:49:59 America/Chicago] PHP Parse error:  syntax error, unexpected ''</b>' (T_ENCAPSED_AND_WHITESPACE) in /home2/duartemanuel/sistema.inglesparatodosbolivia.com/es/factura/impresion/computarizada/index.php on line 477

@@ -1,0 +1,2 @@
+[05-Aug-2019 10:07:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/duartemanuel/sistema.inglesgb.com/es/graduados/egresados/notas.php on line 191
+[05-Aug-2019 11:07:45 America/La_Paz] PHP Fatal error:  Call to a member function sql() on null in /home2/duartemanuel/sistema.inglesgb.com/es/graduados/egresados/notas.php on line 86

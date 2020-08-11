@@ -1,0 +1,9 @@
+[13-Jan-2018 07:42:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/duartemanuel/public_html/nacional/recaudaciones/auditoria/ver/index.php on line 62
+[13-Jan-2018 09:42:15 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on null in /home2/duartemanuel/public_html/nacional/recaudaciones/auditoria/ver/index.php on line 25
+[13-Jan-2018 09:42:24 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on null in /home2/duartemanuel/public_html/nacional/recaudaciones/auditoria/ver/index.php on line 25
+[13-Jan-2018 09:42:30 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on null in /home2/duartemanuel/public_html/nacional/recaudaciones/auditoria/ver/index.php on line 25
+[13-Jan-2018 09:42:34 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on null in /home2/duartemanuel/public_html/nacional/recaudaciones/auditoria/ver/index.php on line 25
+[07-Jun-2019 16:25:35 America/La_Paz] PHP Warning:  Division by zero in /home2/duartemanuel/sistema.inglesgb.com/es/funciones/funciones.php on line 11
+[07-Jun-2019 16:47:25 America/La_Paz] PHP Warning:  Division by zero in /home2/duartemanuel/sistema.inglesgb.com/es/funciones/funciones.php on line 11
+[07-Jun-2019 17:06:56 America/La_Paz] PHP Warning:  Division by zero in /home2/duartemanuel/sistema.inglesgb.com/es/funciones/funciones.php on line 11
+[07-Jun-2019 17:24:06 America/La_Paz] PHP Warning:  Division by zero in /home2/duartemanuel/sistema.inglesgb.com/es/funciones/funciones.php on line 11

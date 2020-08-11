@@ -1,0 +1,5 @@
+[26-Sep-2017 14:34:23 America/Chicago] PHP Warning:  include_once(../../../../class/vejecutivo.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/nacional/administrativo/contrato/ver/index.php on line 3
+[26-Sep-2017 14:34:23 America/Chicago] PHP Warning:  include_once(): Failed opening '../../../../class/vejecutivo.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/nacional/administrativo/contrato/ver/index.php on line 3
+[26-Sep-2017 14:34:23 America/Chicago] PHP Fatal error:  Class 'vejecutivo' not found in /home2/duartemanuel/public_html/nacional/administrativo/contrato/ver/index.php on line 4
+[26-Sep-2017 15:34:40 America/La_Paz] PHP Warning:  include_once(../../../footer.php): failed to open stream: No such file or directory in /home2/duartemanuel/public_html/nacional/administrativo/contrato/ver/index.php on line 352
+[26-Sep-2017 15:34:40 America/La_Paz] PHP Warning:  include_once(): Failed opening '../../../footer.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/duartemanuel/public_html/nacional/administrativo/contrato/ver/index.php on line 352

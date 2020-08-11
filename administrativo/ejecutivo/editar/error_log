@@ -1,0 +1,1 @@
+[17-Nov-2017 11:56:22 America/La_Paz] PHP Fatal error:  Call to a member function mostrarTodo() on a non-object in /home2/duartemanuel/public_html/nacional/administrativo/ejecutivo/editar/cambia.php on line 205

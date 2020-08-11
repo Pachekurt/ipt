@@ -1,0 +1,20 @@
+[18-Oct-2017 16:17:15 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on a non-object in /home2/duartemanuel/public_html/nacional/aside.php on line 19
+[18-Oct-2017 16:17:35 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on a non-object in /home2/duartemanuel/public_html/nacional/aside.php on line 19
+[18-Oct-2017 15:25:09 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 82
+[25-Oct-2017 17:35:08 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:15:54 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:16:23 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:30:12 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:31:08 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:31:32 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:31:45 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:32:18 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:32:20 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:32:43 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:32:51 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[25-Oct-2017 18:33:02 America/La_Paz] PHP Fatal error:  Call to a member function mostrarFull() on a non-object in /home2/duartemanuel/public_html/nacional/superadmin/usuario/index.php on line 69
+[26-Dec-2017 11:24:52 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/funciones/funciones.php on line 246
+[26-Dec-2017 11:25:33 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/funciones/funciones.php on line 246
+[26-Dec-2017 11:25:54 America/La_Paz] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/duartemanuel/public_html/nacional/funciones/funciones.php on line 246
+[13-Jan-2020 10:28:11 America/La_Paz] PHP Fatal error:  Call to a member function muestra() on null in /home2/duartemanuel/sistema.inglesparatodosbolivia.com/es/superadmin/usuario/index.php on line 89
+[13-Jan-2020 09:48:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/duartemanuel/sistema.inglesparatodosbolivia.com/es/superadmin/usuario/cambiarestado.php on line 35

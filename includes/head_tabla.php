@@ -1,0 +1,1 @@
+<link href="<?php echo $ruta ?>recursos/private/dataTables/jquery.dataTables.min.css" type="text/css" rel="stylesheet" media="screen,projection">

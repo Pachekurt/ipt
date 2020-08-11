@@ -1,0 +1,1 @@
+[07-Oct-2019 11:56:37 America/La_Paz] PHP Fatal error:  Call to a member function mostrarTodo() on null in /home2/duartemanuel/sistema.inglesparatodosbolivia.com/es/curso/reportes/vistapordocente/index.php on line 108

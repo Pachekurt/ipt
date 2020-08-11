@@ -1,0 +1,2 @@
+[16-Mar-2018 09:51:25 America/La_Paz] PHP Fatal error:  Call to a member function sql() on null in /home2/duartemanuel/public_html/nacional/docente/claseactividad/cursoactividad.php on line 138
+[16-Mar-2018 10:10:55 America/La_Paz] PHP Fatal error:  Call to a member function mostrar() on null in /home2/duartemanuel/public_html/nacional/docente/claseactividad/cursoactividad.php on line 18
