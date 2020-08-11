@@ -8,7 +8,7 @@ setlocale(LC_ALL, 'esp');
 // $database="duartema_nacional";
 
 $host="localhost";
-$user="duartema_admin";
-$pass="Jhulios20005";
+$user="pacheco";
+$pass="DaniloMoreno4";
 $database="duartema_nacional";
 
